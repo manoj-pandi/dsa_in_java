@@ -1,0 +1,42 @@
+1.What is Data?
+			Any piece of information you have is called "Data"
+
+Data structure = Faster
+
+Big  O notation is used to measure the time and space complexity of a data.
+ measuring meters =   n^2 < n < log n < 1
+O(n^2) < O(n) < O(log n) < O(1)
+
+
+2.Array:
+		four operations:
+				1.Insertion        => 0(1) constant time (which means it doesn't depend on number of data)
+				2.Deletion        =>  0(1)
+				3.Searching     => 0(n) Linear time complexity (which means time complexity depend on number of data i.e if data increase time complexity also increase)
+				4.Traversal      => 0(n^2) Quadratic time (which means if total data increase then time complexity increase exponentially)
+example:
+handshake with one another.
+
+ 
+Time complexity:
+def: The process of measuring the speed and efficiency of the data structure are an algorithm 
+O(log  n) = log which means divide by 2 (which means if you divide the actual data into two portion)
+
+
+3.What is Algorithm?
+step by step process for problem solving
+
+FUNDAMENTALS:
+4.Four Basic Data structure and its operations:
+		1.Array
+		2.Stacks
+		3.Queues
+		4.Linked Lists
+
+5.Basic Algorithms:
+  1.Search : Linear and Binary search
+  2.Sort:ing : Bubble and selection sort
+
+#30
+
+				 
